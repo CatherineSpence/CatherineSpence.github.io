@@ -1,0 +1,22 @@
+.profile-pic {
+	max-width: 50%;
+}
+
+/*
+this is a comment
+*/
+
+.card {
+	border: solid #cccccc 1px;
+	border-radius: 10px;
+	padding: 10px;
+	margin-bottom: 10px;
+	box-shadow: 5px 5px 1px #888888;
+}
+
+
+.jumbotron {
+	background-image: url("../img/london_sunset.jpg");
+	background-size: cover;
+	height: 100%;
+}
